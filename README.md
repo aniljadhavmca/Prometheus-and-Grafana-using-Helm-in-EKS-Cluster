@@ -10,6 +10,8 @@ This document provides a complete step-by-step guide to deploy:
 * kube-state-metrics
 * node-exporter
 
+![Prometheus Grafana EKS Architecture](https://raw.githubusercontent.com/aniljadhavmca/Prometheus-and-Grafana-using-Helm-in-EKS-Cluster/main/images/grphana-pgrduty.png)
+
 using Helm on an Amazon EKS cluster.
 
 This setup helps monitor:
